@@ -1,2 +1,7 @@
-package org.example;public enum Event {
+package org.example;
+
+public enum Event {
+    Order,
+    Payment,
+    Transport
 }

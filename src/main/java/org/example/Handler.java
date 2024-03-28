@@ -1,2 +1,5 @@
-package org.example;public class Handler {
+package org.example;
+
+public abstract class Handler {
+    public void process(){}
 }
